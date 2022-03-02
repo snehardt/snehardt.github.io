@@ -220,3 +220,14 @@ footer .social img {
         margin-top: 25px;
     }
 }
+/* page 2 */
+#first{ 
+    display: grid;
+    grid-template: 1fr 1fr 1fr;
+}
+.one {
+    grid-template-columns: 3/4;
+}
+.boxing {
+    grid-template-columns: 1/3;
+}
