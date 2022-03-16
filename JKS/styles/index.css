@@ -9,6 +9,7 @@ nav a {
     padding: 35px;
 }
 header {
+    box-shadow: 5px 5px 10px #6f7364;
     background-color: #F4E04D;
 }
 nav {
@@ -17,6 +18,7 @@ nav {
     background-color: #F4E04D;
 }
 .first { 
+    box-shadow: 5px 5px 10px #6f7364;
     margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
@@ -27,7 +29,12 @@ nav {
     border: 3px #E15634 solid;
 }
 .title {
+    box-shadow: 5px 5px 10px #6f7364;
+
+    margin-right: 50px;
     margin-left: 50px;
+    text-align: center;
+    font-size: 35px;
 }
 .second {
     font-size: 20px;
@@ -38,60 +45,91 @@ nav {
     font-size: 22px;
     margin-left: 50px;
     margin-right: 50px;
+    padding-bottom: 10px;
 }
 .two {
     font-size: 22px;
     margin-left: 50px;
     margin-right: 50px;
+    padding-bottom: 10px;
 }
 .three {
     font-size: 22px;
     margin-left: 50px;
     margin-right: 50px;
+    padding-bottom: 10px;
 }
 .four {
     font-size: 22px;
     margin-left: 50px;
     margin-right: 50px;
+    padding-bottom: 10px;
 }
 .five {
     font-size: 22px;
     margin-left: 50px;
     margin-right: 50px;
+    padding-bottom: 10px;
 }
 .six {
     font-size: 22px;
     margin-left: 50px;
     margin-right: 50px;
+    padding-bottom: 10px;
 }
 .seven {
     font-size: 22px;
     margin-left: 50px;
     margin-right: 50px;
+    padding-bottom: 10px;
 }
 .eight {
     font-size: 22px;
     margin-left: 50px;
     margin-right: 50px;
+    padding-bottom: 10px;
 }
 .nine {
     font-size: 22px;
     margin-left: 50px;
     margin-right: 50px;
+    padding-bottom: 10px;
 }
-
+.laugh {
+    box-shadow: 5px 5px 10px #6f7364;
+    background-color: #FF7733;
+    padding: 15px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 50px 100px;
+    margin-bottom: 0%;
+    justify-content: space-around;
+    
+}
 nav a {
     font-size: 40px;
     margin: 10px 0px;
 }
 .smile {
+    margin-left: 10px;
+    grid-column: 1/2;
     max-width: 600px;
+    height: 350px;
+    border: 10px solid #E15634;
 }
 .rooster {
+    margin-left: 50px;
+    float: left;
+    width: 400px;
     max-width: 600px;
 }
 .pig {
+    grid-column: 2;
+    margin-left: auto;
+    margin-right: auto;
     max-width: 600px;
+    height: 350px;
+    border: 10px solid #E15634;
 }
 .balloon {
     max-width: 600px;
@@ -112,6 +150,7 @@ nav a {
     max-width: 600px;
 }
 .foot {
+    box-shadow: 5px 5px 10px #6f7364;
     background-color: #E15634;
     padding: 25px 50px;
     margin-top: 200px;

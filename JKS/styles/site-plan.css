@@ -173,3 +173,21 @@ nav a:hover {
   border-top: 1px solid;
   border-right: 1px solid;
 }
+.rooster {
+  max-width: 400px;
+}
+.smile {
+  max-width: 400px;
+}
+.balloon {
+  max-width: 400px;
+}
+.jump {
+  max-width: 400px  ;
+}
+.monkey {
+  max-width: 400px  ;
+}
+.bubble {
+  max-width: 400px  ;
+}
