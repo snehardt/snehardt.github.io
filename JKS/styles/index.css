@@ -1,6 +1,7 @@
 #content {
     max-width: 1600px;
     margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
 }
 nav a {
     text-align: center;
@@ -13,6 +14,7 @@ header {
     background-color: #F4E04D;
 }
 nav {
+    font-family: 'Open Sans', sans-serif;
     display: flex;
     justify-content: space-around; 
     background-color: #F4E04D;
@@ -24,11 +26,13 @@ nav {
     margin-right: auto;
     width: 400px;
     text-align: center;
-    font-size: 50px;
+    font-size: 60px;
     background-color: #FF7733;
     border: 3px #E15634 solid;
+    font-family: 'Bangers', cursive;
 }
 .title {
+    font-family: 'Open Sans', sans-serif;
     box-shadow: 5px 5px 10px #6f7364;
     margin-right: 50px;
     margin-left: 50px;
@@ -36,60 +40,70 @@ nav {
     font-size: 35px;
 }
 .second {
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     margin-left: 50px;
     margin-right: 50px;
 }
 .one {
-    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
     margin-left: 50px;
     margin-right: 50px;
     padding-bottom: 10px;
 }
 .two {
-    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
     margin-left: 50px;
     margin-right: 50px;
     padding-bottom: 10px;
 }
 .three {
-    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
     margin-left: 50px;
     margin-right: 50px;
     padding-bottom: 10px;
 }
 .four {
-    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
     margin-left: 50px;
     margin-right: 50px;
     padding-bottom: 10px;
 }
 .five {
-    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
     margin-left: 50px;
     margin-right: 50px;
     padding-bottom: 10px;
 }
 .six {
-    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
     margin-left: 50px;
     margin-right: 50px;
     padding-bottom: 10px;
 }
 .seven {
-    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
     margin-left: 50px;
     margin-right: 50px;
     padding-bottom: 10px;
 }
 .eight {
-    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
     margin-left: 50px;
     margin-right: 50px;
     padding-bottom: 10px;
 }
 .nine {
-    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
     margin-left: 50px;
     margin-right: 50px;
     padding-bottom: 10px;
@@ -106,6 +120,7 @@ nav {
     
 }
 nav a {
+    font-family: 'Open Sans', sans-serif;
     font-size: 40px;
     margin: 10px 0px;
 }
@@ -149,6 +164,7 @@ nav a {
     max-width: 600px;
 }
 .foot {
+    font-family: 'Open Sans', sans-serif;
     box-shadow: 5px 5px 10px #6f7364;
     background-color: #E15634;
     padding: 25px 50px;
