@@ -134,6 +134,69 @@ nav {
     margin-right: 50px;
     padding-bottom: 10px;
 }
+.ten {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+}
+.eleven {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+}
+.twelve {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+}
+.thriteen {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+}
+.fourteen {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+}
+.fifteen {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+}
+.sixteen {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+}
+.seventeen {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+}
+.eighteen {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+}
 .laugh {
     box-shadow: 5px 5px 10px #6f7364;
     background-color: #FF7733;
@@ -172,13 +235,27 @@ nav a {
     border: 10px solid #E15634;
 }
 .balloon {
+    margin-right: 50px;
+    float: right;
+    width: 400px;
     max-width: 600px;
+    border: 15px solid #E15634;
+    box-shadow: 5px 5px 10px #6f7364;
 }
 .jump {
+    margin-left: 50px;
+    width: 600px;
     max-width: 600px;
+    border: 15px solid #E15634;
+    box-shadow: 5px 5px 10px #6f7364;
 }
 .stuffed {
+    margin-right: 50px;
+    float: right;
+    width: 550px;
     max-width: 600px;
+    border: 15px solid #E15634;
+    box-shadow: 5px 5px 10px #6f7364;
 }
 .bubble {
     max-width: 600px;
