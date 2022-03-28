@@ -3,7 +3,12 @@
     margin: 0 auto;
     font-family: 'Open Sans', sans-serif;
 }
-
+#feedback {
+    border: 15px solid #E15634;
+}
+#lol {
+    overflow: hidden;
+}
 .fa-face-grin-squint-tears:hover {
     animation: shake 0.5s;
     animation-iteration-count: infinite;
@@ -197,6 +202,77 @@ nav {
     margin-right: 50px;
     padding-bottom: 10px;
 }
+.nineteen {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+}
+.twenty {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+}
+.twenty-one {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+}
+.twenty-two {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+}
+.twenty-three {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+}
+.twenty-four {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+}
+.twenty-five {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+    
+}
+.twenty-six {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+}
+.twenty-seven {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+}
+.yolo {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+}
 .laugh {
     box-shadow: 5px 5px 10px #6f7364;
     background-color: #FF7733;
@@ -206,7 +282,6 @@ nav {
     margin: 50px 100px;
     margin-bottom: 0%;
     justify-content: space-around;
-    
 }
 nav a {
     font-family: 'Open Sans', sans-serif;
@@ -258,13 +333,28 @@ nav a {
     box-shadow: 5px 5px 10px #6f7364;
 }
 .bubble {
+    margin-right: 50px;
+    float: right;
+    width: 550px;
     max-width: 600px;
+    border: 15px solid #E15634;
+    box-shadow: 5px 5px 10px #6f7364;
 }
 .monkey {
+    margin-right: 50px;
+    float: left;
+    width: 550px;
     max-width: 600px;
+    border: 15px solid #E15634;
+    box-shadow: 5px 5px 10px #6f7364;
 }
 .last {
+    margin-right: 50px;
+    float: right;
+    width: 550px;
     max-width: 600px;
+    border: 15px solid #E15634;
+    box-shadow: 5px 5px 10px #6f7364;
 }
 .foot {
     font-family: 'Open Sans', sans-serif;
