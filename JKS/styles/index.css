@@ -69,6 +69,7 @@ nav {
     font-size: 35px;
     background-color: black;
     color: white;
+    padding: 5px 0;
 }
 .second {
     font-family: 'Open Sans', sans-serif;
@@ -318,7 +319,9 @@ nav a {
     box-shadow: 5px 5px 10px #6f7364;
 }
 .jump {
+    float: left;
     margin-left: 50px;
+    margin-right: 50px;
     width: 600px;
     max-width: 600px;
     border: 15px solid #E15634;
@@ -342,6 +345,7 @@ nav a {
 }
 .monkey {
     margin-right: 50px;
+    margin-left: 50px;
     float: left;
     width: 550px;
     max-width: 600px;
